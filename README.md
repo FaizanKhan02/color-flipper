@@ -2,18 +2,21 @@
 
 A simple JavaScript project that changes the background color randomly when clicking a button.
 
+## 📌 Features
 
-## 📌 Features  
 ✅ Random background color generation  
 ✅ Simple UI with a single button  
-✅ Easy to understand JavaScript logic  
+✅ Easy to understand JavaScript logic
 
-## 🛠️ Technologies Used  
-- HTML  
-- CSS  
-- JavaScript  
+## 🛠️ Technologies Used
 
-## 📦 Installation  
-1. Clone this repository:  
+- HTML
+- CSS
+- JavaScript
+
+## 📦 Installation
+
+1. Clone this repository:
    ```sh
    git clone https://github.com/FaizanKhan02/color-flipper.git
+   ```
